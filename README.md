@@ -10,10 +10,19 @@ His encouragement words where:
 >"It's sunday and I shouldn't actually be working in the weekend so I'll write some encouragement later."
 > --Filip --
 
- ### When?
+### When?
+
+I did this excerscise 17 june 2019.
  
 ### Who?
 
-### What did I used?
+Hi, me , Merel Van Puymbroeck o/
 
+### What did I use to get this?
+
+- [x] if else statement
+- [x] images
+- [x] buttons
+
+![alt text](ss.png)
 
