@@ -6,12 +6,11 @@ Paper, Rock and Scissors game. When you press your chosen button you can play ag
 
 ### Why?
 Cause or coach said we needed to complete this excercise to learn Javascript a bit more.
-His encouragement words where => 
->It's sunday and I shouldn't actually be working in the weekend so I'll write some encouragement later.
->- Filip
+His encouragement words where: 
+>"It's sunday and I shouldn't actually be working in the weekend so I'll write some encouragement later."
+> --Filip --
 
- 
-### When?
+ ### When?
  
 ### Who?
 
