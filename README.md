@@ -24,5 +24,18 @@ Hi, me , Merel Van Puymbroeck o/
 - [x] images
 - [x] buttons
 
+### Some code 
+
+As you can see here, I used if / else statement to chose a button and play it against the computer, the console log put it then on de display of my webpage.
+
+    var computerChoice = Math.random();
+    if (computerChoice < 0.34) {
+     computerChoice = "rock";
+    }else if(computerChoice <= 0.67) {
+     computerChoice = "paper";
+    }else{
+     computerChoice = "scissors";
+    }; 
+
 ![alt text](ss.png)
 
